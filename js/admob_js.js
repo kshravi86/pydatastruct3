@@ -16,7 +16,7 @@ else if(/(ipod|iphone|ipad)/i.test(navigator.userAgent)) {
     rewardvideo: 'ca-app-pub-3940256099942544/1712485313',
   };
 } else {
-  admobid = { // for Windows Phone
+  admobid = {
     banner: 'ca-app-pub-6869992474017983/8878394753',
     interstitial: 'ca-app-pub-6869992474017983/1355127956',
     rewardvideo: '',

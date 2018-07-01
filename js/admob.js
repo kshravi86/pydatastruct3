@@ -10,7 +10,7 @@ if( /(android)/i.test(navigator.userAgent) ) {
         interstitial: 'ca-app-pub-6869992474017983/7563979554'
     };
 } else {
-    admobid = { // for Windows Phone
+    admobid = {
         banner: 'ca-app-pub-6869992474017983/8878394753',
         interstitial: 'ca-app-pub-6869992474017983/1355127956'
     };
